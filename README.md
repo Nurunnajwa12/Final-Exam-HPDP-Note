@@ -12,3 +12,9 @@ Source: Conversation with Bing, 01/01/2024
 - (1) 2023 SEO Trends: Keeping Up With Google Search Systems ... - Lumar. https://www.lumar.io/blog/industry-news/2023-seo-trends-keeping-up-with-google-search-systems-algorithms-updates/.
 - (2) Google Cloud Architecture Framework. https://cloud.google.com/architecture/framework.
 - (3) Google turns 25: The search engine revolutionized how we access .... https://techxplore.com/news/2023-09-google-revolutionized-access-survive-ai.html.
+
+### Must understand
+- How Google Search work
+- https://www.bernardmarr.com/img/bigdata-case-studybook_final.pdf
+- Understand Google in 5 minutes [https://www.youtube.com/watch?v=0eKVizvYSUQ]
+- How data centres operate [https://youtu.be/XZmGGAbHqa0?feature=shared]

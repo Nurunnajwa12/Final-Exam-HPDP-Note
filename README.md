@@ -25,5 +25,16 @@ Source: Conversation with Bing, 01/01/2024
 - https://www.submarinecablemap.com 
 - ![image](https://github.com/Nurunnajwa12/Final-Exam-HPDP-Note/assets/89633522/6b4b4ab4-1194-4007-9e8f-4f01504c48fa)
 
+### Analytics end to end Azure Synapse
+- https://learn.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal
+- bring ruler for line
+- MongoDB , Kaggle Architecture
+
+### Facebook Architecture
+![image](https://github.com/Nurunnajwa12/Final-Exam-HPDP-Note/assets/89633522/11b137cc-cf7e-4d82-bd79-14d0ced3ff54)
+
+
+
+
 
 

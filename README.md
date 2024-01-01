@@ -33,6 +33,8 @@ Source: Conversation with Bing, 01/01/2024
 ### Facebook Architecture
 ![image](https://github.com/Nurunnajwa12/Final-Exam-HPDP-Note/assets/89633522/11b137cc-cf7e-4d82-bd79-14d0ced3ff54)
 
+### AWS Cloud Architecture
+https://medium.com/@eyupcebe/aws-cloud-architecture-8ea9a99fe8fa 
 
 
 

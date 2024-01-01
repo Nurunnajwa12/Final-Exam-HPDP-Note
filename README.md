@@ -18,3 +18,12 @@ Source: Conversation with Bing, 01/01/2024
 - https://www.bernardmarr.com/img/bigdata-case-studybook_final.pdf
 - Understand Google in 5 minutes [https://www.youtube.com/watch?v=0eKVizvYSUQ]
 - How data centres operate [https://youtu.be/XZmGGAbHqa0?feature=shared]
+- If the data centres face some error/damage, how to fix it?
+
+### Submarine cable connectivity in SEA
+- Submarine cable map
+- https://www.submarinecablemap.com 
+- ![image](https://github.com/Nurunnajwa12/Final-Exam-HPDP-Note/assets/89633522/6b4b4ab4-1194-4007-9e8f-4f01504c48fa)
+
+
+

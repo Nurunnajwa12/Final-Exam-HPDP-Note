@@ -39,6 +39,8 @@ https://medium.com/@eyupcebe/aws-cloud-architecture-8ea9a99fe8fa
 https://github.com/drshahizan/Python-big-data/blob/main/images/Big%20Data%20in%20Practice.pdf 
 
 ### Exam exercise
-https://github.com/drshahizan/HPDP/tree/main/exercise 
+- https://github.com/drshahizan/HPDP/tree/main/exercise
+- Hadoop 
+
 
 

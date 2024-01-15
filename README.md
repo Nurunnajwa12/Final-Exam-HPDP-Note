@@ -45,7 +45,7 @@ https://github.com/drshahizan/Python-big-data/blob/main/images/Big%20Data%20in%2
 ### 20 questions 20 mark
 - Structured question
 - Answered base on case study
-- 
+- Data unstructrured hanya boleh guna NoSQL database
 
 
 

@@ -43,12 +43,12 @@ https://github.com/drshahizan/Python-big-data/blob/main/images/Big%20Data%20in%2
 - Hadoop 
 
 ### 20 questions 20 mark
-- Structured question
+Structured question
 - Answered base on case study
 - Data unstructrured hanya boleh guna NoSQL database
 - Soalan python , cloud services, ada bencana apa yang kita nak buat
 - 4 case study
-- 
+- kalau sistem breakdown, what should we do?
 
 
 
